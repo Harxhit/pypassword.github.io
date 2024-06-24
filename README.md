@@ -13,3 +13,4 @@ Python: Core programming language used to develop the application.
 random module: Utilized for generating random choices for the password characters.
 string module: Used for accessing character sets (letters, digits, punctuation).
 pyperclip module: Integrated for clipboard operations (optional).
+https://haveibeenpwned.com/ Here check that your account has been breached before or not?
